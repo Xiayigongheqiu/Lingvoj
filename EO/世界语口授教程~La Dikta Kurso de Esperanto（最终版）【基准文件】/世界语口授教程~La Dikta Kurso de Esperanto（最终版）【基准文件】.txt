@@ -1,0 +1,3079 @@
+世界语口授教程~La Dikta Kurso de Esperanto
+
+序
+
+世界语：
+世界语是1887年7月26日波兰人柴门霍夫创造的国际辅助语，语法比较简单。在联合国承认的语言中，世界语不可置疑地成为了世界上最简单的语言。
+世界语的原名是“МЕЖДУНАРОДНЫЙ ЯЗЫКЪ”（1887年俄语原文），直译为“国际语”，并不是什么其他的名字。
+世界语综合了屈折语（如俄语）、黏着语（如日语）和孤立语（如汉语）的特征，诚然具有国际性。世界语是如此出名，以至于毛亦曾经号召过学习世界语（原文为“世界语是可以学的，是应该学的”），世界语亦是東方一设内容（见東方红魔乡结局）。中国报道（http://www.espero.com.cn/），即中国报道杂志社，创建于1950年，由中共中央直属、国务院新闻办所属外宣机构——中国外文出版发行事业局（中国国际出版集团）主管。中国报道杂志社出版《中国报道》中文月刊和世界语网络版，承办中央重点网站“中国网”的世界语版的编辑工作。
+关于本教程和学习：
+本教程分为序、正文、跋三部分。
+本教程的主体内容来源于作者之口授教学记录，理论上，本教程的适用人群绝不是少数人。且本教程在日后会不断更新、完善。
+学完本教程，你将拥有用世界语与他人交流的程度的能力。
+使用建议：反复阅读。如在反复阅读后仍然不懂，可询问本作者，或加群（QQ群号：216765878）。
+在教程的跋中，亦有世界语的唯一官方机构——世界语学院之成员编写的《高级世界语语法手册》（汉译版）（即：若教程与之发生冲突，则以《高级世界语语法手册》为准），你可以以之更详细和准确地学习世界语。跋中亦有极权威的PIV词典，为了继续的学习实践，务必尽量多地参考其中的斜体字例子。
+教程版本：VJul3aJBH
+教程经：
+命莲寺扫地僧（UID:15141891）
+板砖阿兄（Briko。UID:24561596）
+HaominZhu（UID:35662731）
+汪哲咚汪（UID:150359774）
+凌寒正針（UID:221845801）
+leefhta天琴（UID:278358272）
+w萦禾w（UID:325384032）
+针尖对麦芒FSZ（UID:349145609）
+令天starlight（UID:367415632）
+希腊火Onerio（UID:392709655）
+朱迪Wei（UID:484847826）
+觉细胞质壁分离（UID:499803810）
+审核通过（按UID先后排序）
+Grandsachjo（UID:40697031）
+令和三年七月
+
+正文
+
+字母与发音：
+
+下面给出了世界语字母的对照发音，你可以参考你掌握的来学习世界语字母的发音。
+
+世界语字母a：相当于英语last的a，或国际音标的[a]，或汉语拼音的a。
+
+世界语字母b：相当于英语be的b，或国际音标的[b]，或汉语拼音的b。
+
+世界语字母c：相当于英语wits的ts，或国际音标的[ts]，或汉语拼音的c。
+
+世界语字母ĉ：相当于英语church的ch，或国际音标的[tʃ]，或汉语拼音的ch。
+
+世界语字母d：相当于英语do的d，或国际音标的[d]，或汉语拼音的d。
+
+世界语字母e：相当于英语get的e，或国际音标的[e]，或汉语拼音的ê。
+
+世界语字母f：相当于英语fly的f，或国际音标的[f]，或汉语拼音的f。
+
+世界语字母g：相当于英语gun的g，或国际音标的[g]，或汉语拼音的g。
+
+世界语字母ĝ：相当于英语join的j，或国际音标的[dʒ]，或汉语拼音的zh。
+
+世界语字母h：相当于英语half的h，或国际音标的[h]，或汉语拼音的h的轻化。
+
+世界语字母ĥ：相当于英语half的h的加重化，或国际音标的[x]，或汉语拼音的h。
+
+世界语字母i：相当于英语see的ee，或国际音标的[i]，或汉语拼音的i。
+
+世界语字母j：相当于英语yoke的y，或国际音标的[j]，或汉语拼音的y。
+
+世界语字母ĵ：相当于英语azure的z，或国际音标的[ʒ]，或汉语拼音的r。
+
+世界语字母k：相当于英语key的k，或国际音标的[k]，或汉语拼音的k。
+
+世界语字母l：相当于英语line的l，或国际音标的[l]，或汉语拼音的l。
+
+世界语字母m：相当于英语make的m，或国际音标的[m]，或汉语拼音的m。
+
+世界语字母n：相当于英语now的n，或国际音标的[n]，或汉语拼音的n。
+
+世界语字母o：相当于英语not的o，或国际音标的[o]，或汉语拼音的(a)o。
+
+世界语字母p：相当于英语pair的p，或国际音标的[p]，或汉语拼音的p。
+
+世界语字母r：相当于英语rare的r（但为颤音），或国际音标的[r]，或汉语拼音的l（但为颤音）。
+
+世界语字母s：相当于英语see的s，或国际音标的[s]，或汉语拼音的s。
+
+世界语字母ŝ：相当于英语show的sh，或国际音标的[ʃ]，或汉语拼音的sh。
+
+世界语字母t：相当于英语tea的t，或国际音标的[t]，或汉语拼音的t。
+
+世界语字母u：相当于英语bull的u，或国际音标的[u]，或汉语拼音的u。
+
+世界语字母ŭ：相当于英语mount的u，或国际音标的[w]，或汉语拼音的w。
+
+世界语字母v：相当于英语very的v，或国际音标的[v]，或汉语拼音的v。
+
+世界语字母z：相当于英语zeal的z，或国际音标的[z]，或汉语拼音的z。
+
+注：
+
+世界语的每个字母都是发音的，没有不发音的字母，每个字母一字一音，发音永远不变。
+
+每个元音字母的发音不依赖于另一个元音字母，如ai读作“啊衣”，而不是“哀”。其中，A E I O U为元音字母，其余的为辅音字母。每个元音字母发音的强度或长度应一致。
+
+在世界语中，有几个元音字母就有几个音节。如果一个单词含有两个或两个以上的元音字母，那倒数第二个元音字母要重读，即：读得更明显一些。
+
+字母ŭ只能用于双元音。（即“aŭ”和“eŭ”）
+
+字母的名称：
+
+字母的发音是指：如拼音“k”，它在词中读“科”，但如果把它单独拿出来，它就读“kei”。前者为字母的发音，后者为字母的名称
+
+在世界语中，元音字母的发音等于它自己的名词
+
+辅音字母的名称=辅音字母+o
+
+如：
+
+A的发音为a，它的名字为a
+
+U的发音为u，它的名字为u
+
+K的发音为k，它的名字为ko
+
+R的发音为r，它的名字为ro
+
+Ŭ的发音为ŭ，它的名字为ŭo
+
+大小写的书写：
+
+一般地，句子的第一个字母和专有名词（如人名和地名）大写，其余为小写
+
+如果ĉĝĥĵŝŭ这六个特殊字母无法输入，可分别用ch gh hh jh sh u或cx gx hx jx sx ux代替
+
+你可以通过这个视频感受一下世界语的发音（发音并非全部标准，故仅供参考）：https://www.bilibili.com/video/BV16E411g7wB
+
+首先学名词
+
+名词是表示人或事物名称的词，如“人、牛、水、友谊、团体、北京、孔子”等
+
+在世界语中，名词以字母o结尾也就是说，只要你想把某个词变成名词，在它的词根后面加上o就行
+
+比如
+
+afero（事；事物；事情）
+
+afero就是个名词
+
+amiko（朋友），它也是个名词
+
+然后我们学形容词
+
+形容词是表示人或事物的性质或状态的词，如“高、细、软、白、暖和、活泼”
+
+世界语中的名词以o结尾，世界语中的形容词则以a结尾
+
+比如：bona（好的）
+
+alta（高的）
+
+granda（大的）
+
+名词和形容词之间还能相互转化
+
+比如amiko（朋友）
+
+名词以o结尾，形容词以a结尾，所以通过改变词尾你就能改变它的词性
+
+比如amiko，由词根amik和词尾o组成
+
+如果你把它的词尾o换成a
+
+那它就变成了amika（友好的；友善的）
+
+再比如
+
+kuraĝa=勇敢的
+
+由词根kuraĝ和词尾a组成
+
+如果你把a换成o，那它就变成了一个名词：kuraĝo
+
+意思是“勇气”
+
+在汉语中，我们通常说“形容词+名词”。比如“好（形容词）朋友（名词）”但在世界语中就灵活得多了
+
+在世界语中你既可以说形容词+名词，也可以说名词+形容词
+
+如“好朋友”即可以是bona amiko也可以是amiko bona
+
+不过我们通常采用前者跟汉语一样的表述方式（即“bona amiko”）
+
+然后我们学习复数
+
+复数是单词的一种形式，表示属于两个或两个以上的数量
+
+在世界语中，如果你要把某一个词变成复数，你只需要在其后加上复数词尾j
+
+在世界语中，如果你不加复数词尾j，则默认该事物为一个
+
+复数词尾可以加在名词后，也可以加在形容词后
+
+也就是说，在世界语中，不但名词有复数形式，形容词也有复数形式
+
+形容词的复数形式表示该形容词所修饰的对象不止一个
+
+举个例子
+
+amiko=（一个）朋友
+
+amikoj=朋友们bona amiko=（一个）好朋友
+
+bonaj amikoj=好朋友们
+
+这里bona加了复数词尾j，表示“好的”的对象不止一个（即复数），所以bona也要变复数形式
+
+形容词修饰的是一个，那形容词就不加j；如果形容词修饰多个，则形容词就加j
+
+我们再举个例子
+
+granda=大
+
+hundo=狗
+
+kato=猫
+
+然后我们再学个连词：kaj
+
+kaj的意思是“和；与；且；及”
+
+则Granda hundo kaj kato=（一条）大狗和（一只）猫
+
+如果我们要表示很多条大狗和一只猫，我们则需要在granda和hundo后加上复数词尾j
+
+即Grandaj hundoj kaj kato
+
+如果我们要表示一条大狗和很多只猫，我们则需要在kato后加上复数词尾j
+
+即Granda hundo kaj katoj
+
+这里granda没有复数词尾j，即“大的”的事物只有一个，而且它又跟着“hundo”，所以在这个句子中granda的事物只有hundo一个
+
+Grandaj hundo kaj kato=一条大狗和一只猫因为granda是复数，表示“大的”的事物不止一个
+
+所以它能同时表示hundo和kato都是“大”的
+
+这句话也等于Granda hundo kaj granda kato
+
+下面我们学习世界语的基本人称代词
+
+如下：
+
+mi=我
+
+vi=你；你们
+
+ŝi=她
+
+li=他
+
+ĝi=它
+
+ni=我们
+
+ili=她们；他们；它们
+
+如果我们在人称代词后加上个字母a，人称代词就变成了物主代词（用法与汉语类似），
+
+如下：mia=我的
+
+via=你的；你们的
+
+ŝia=她的
+
+lia=他的
+
+ĝia=它的
+
+nia=我们的
+
+ilia=她们的；他们的；它们的
+
+物主代词不属于形容词，但它们有着与形容词相似的性质。如它们也能加诸如j的词尾
+
+比如：
+
+Mia amiko（=Amiko mia）=我的朋友（一个）
+
+Miaj amikoj（=Amikoj miaj）=我的朋友们
+
+我的（一个）好朋友=Mia bona amiko
+
+我的好朋友们=Miaj bonaj amikoj
+
+Mia kaj via=我的和你的
+
+“这是她的和我的”中，“她的和我的”就翻译成“ŝia kaj mia”
+
+下面我们学习动词
+
+动词是表示人或事物的动作、存在、变化的词，如“走、笑、有、在、看、写、飞、落、保护、开始、起来、上去”
+
+在世界语中，动词的原形或不定式以i结尾
+
+如：
+
+kuri=跑
+
+kuiri=烹饪
+
+esti=是；有（存在）
+
+scii=知道
+
+动词以i结尾表示原型或不定式，故它不能表示该动作发生于何时、何种状态
+
+所以我们一般使用动词的现在时，而不是动词的原型或不定式
+
+一是因为跟别人现在说，二是因为现在时表示该动作发生于现在，而不是发生于过去或将来
+
+在世界语中，如果你要把某个动词变成现在时，你只需要把它原来的词尾去掉，换成as即可
+
+如kuri（跑）的现在时是kuras
+
+esti（是）的现在时是estas
+
+scii（知道）的现在时是scias
+
+现在，你可以造简单的句子了比如：“我（在）跑”
+
+世界语的基本语序跟汉语一样，都是动作发出者+动作（+动作接受者+其他）
+
+所以“它（在）跑”=Ĝi kuras
+
+kuras表示“跑”发生于现在，而不是发生于过去或将来
+
+再如：
+
+“他是我的朋友”
+
+世界语：Li estas mia amiko
+
+然后，我们再学几个动词
+
+povi=可以；能
+
+devi=应该；必须
+
+flugi=飞
+
+esperi=希望
+
+那么，像“我可以飞”这样的，有多个动词联合起来共同使用的句子怎么翻译呢
+
+“可以”是动词，“飞”也是动词
+
+这种情况下
+
+第一个动词是时态该是什么是什么
+
+第二个及其之后的动词统一用原型
+
+即：我可以飞=Mi povas flugi
+
+再如：我希望能飞=Mi esperas povi flugi
+
+再如：你应该会做饭=Vi devas povi kuiri（kuiri=烹饪）
+
+接下来，我们学习世界语中的一个重点
+
+宾格
+
+宾格表示动作的直接承受者
+
+在世界语中，动作的直接承受者后要加上宾格词尾n
+
+比如
+
+trinki=喝
+
+akvo=水
+
+在“我喝水”中，“我”是动作发出者，“喝”是动作，“水”是动作“喝”的直接承受者
+
+首先，动词一般用现在时
+
+我们先把trinki变成trinkas
+
+然后翻译：Mi trinkas akvo
+
+因为akvo是trinkas的直接承受者
+
+所以akvo后要加上宾格词尾n
+
+即：Mi trinkas akvon
+
+如此一来，你很容易就能分辨出，在句子中，谁是动作发出者，谁是动作，谁是动作的直接承受者
+
+因此，世界语的语序有着极大的灵活性
+
+所以“我喝水”这句话实际上有六种说法
+
+即：
+
+Mi trinkas akvon
+
+Mi akvon trinkas
+
+Trinkas mi akvon
+
+Trinkas akvon mi
+
+Akvon trinkas mi
+
+Akvon mi trinkas
+
+因为宾格词尾n，谁是动作发出者，谁是动作，谁是动作的直接承受者并没有改变，所以这六个句子的意思完全相同
+
+“我认识她”（Mi konas ŝin）这句话中的三个词的位置同样任意
+
+当然，我们一般说Mi konas ŝin
+
+那么，当一个词同时需要加复数词尾j和宾格词尾n时，该怎么办
+
+这种情况下，n永远在最后面，j永远紧挨在n的前面
+
+比如
+
+pomo=苹果
+
+manĝi=吃
+
+我吃（一个）苹果=Mi manĝas pomon
+
+（注意manĝas是manĝi的现在时）
+
+那么，“我吃（不止一个）苹果”就是“Mi manĝas pomojn”
+
+即n永远在最后面，j永远紧挨在n的前面
+
+注意，宾格词尾n的添加规则同理于复数词尾j
+
+即形容词同样可以加宾格词尾n
+
+比如：
+
+ruĝa=红
+
+我吃（一个）红苹果=Mi manĝas ruĝan pomon
+
+我吃（不止一个）红苹果=Mi manĝas ruĝajn pomojn
+
+注意，esti这个词后面不用加宾格词尾
+
+如“我是你的朋友”=Mi estas via amiko
+
+而不是Mi estas vian amikon
+
+这是因为，via amiko并不是在直接承受estas这个动作
+
+“我”并没有把“你的朋友”给“是”了
+
+所以via amiko不加n类似的词还有“成为”“变成”
+
+它们后面同样也不加n
+
+这个在语言中叫主系表结构
+
+表语不是宾语，所以不加宾格
+
+feliĉa=快乐的；幸福的
+
+Ni estas feliĉaj=我们是快乐的
+
+因为“我们”（ni）不止一个，所以feliĉa要加复数词尾j
+
+下面我们学习一般疑问句
+
+汉语中的一般疑问句通常是在句子最后面加上“吗”字
+
+比如“你吃”的一般疑问句为“你吃吗”
+
+在世界语中，一般疑问句同样很简单
+
+如果你要把某个句子改成一般疑问句，你只需要在这个句子的最前面加上单词“ĉu”
+
+你吃=Vi manĝas
+
+你吃吗=Ĉu vi manĝas
+
+Li estas via amiko=他是你的朋友
+
+Ĉu li estas via amiko=他是你的朋友吗
+
+Vi trinkas akvon=你喝水
+
+Ĉu vi trinkas akvon=你喝水吗
+
+回答一般疑问句，一般用到这两个词
+
+jes（是），ne（不）
+
+这里我们就需要到了否定
+
+在世界语中，如果你要进行否定，你只需要在你想否定的对象前加上单词ne
+
+比如
+
+Mi trinkas akvon=我喝水
+
+Mi ne trinkas akvon=我不喝水
+
+Ŝi estas alta=她是高的
+
+Ŝi ne estas alta=她不高
+
+Vi povas ne fari=你可以不做（fari=做；作）
+
+Vi ne povas fari=你不可以做
+
+这样一来，我们就能回答一般疑问句了
+
+如：
+
+你喝水吗=Ĉu vi trinkas akvon
+
+是的（，我喝水）=Jes（，mi trinkas akvon）
+
+不（，我不喝水）=Ne（,mi ne trinkas akvon）
+
+下面我们学几个介词
+
+介词是用在名词、代词或名词性词组的前面，合起来表示方向、对象的词，如“从、自、往、朝、在”
+
+如
+
+por=为了
+
+al=对；向；朝
+
+en=在……里
+
+比如
+
+iri=走；去
+
+domo=屋子
+
+我走向屋子=Mi iras al domo
+
+我在屋子里走=Mi iras en domo
+
+pano=面包doni=给
+
+我给你面包=Mi donas panon al vi
+
+al和vi联合起来表示donas发生的方向
+
+al后的vi并不是动作donas的直接承受者，所以vi不加n，pano才是动作donas的直接承受者
+
+al vi作为一个整体表示方向，也可以放在donas后面
+
+Mi donas al vi panon=Mi donas panon al vi
+
+此外，宾格词尾n与介词联合起来也能表示方向
+
+看下面这个例子：
+
+Mi iras en domo=我在屋子里走
+
+如果你在domo后加上宾格词尾n，那n就会与en共同作用，表示iras的方向
+
+即：
+
+Mi iras en domo=我在屋子里走
+
+Mi iras en domon=我走进屋子
+
+Mi iras al domo=我走向屋子
+
+注意，al后的词不加n，因为al本身就能表示方向
+
+而en本身并不能表示方向，所以en后的词加不加n会是不同的意思
+
+注意，en domon的domo并不是宾语（宾语=动作的直接承受者）。宾格词尾n的用法不只能表示谁是宾语，它还能表示方向
+
+又如：
+
+sur=在……上，tablo=桌子，sidi=坐
+
+Mi sidas sur tablo=我坐在桌子上
+
+Mi sidas sur tablon=我坐到桌子上
+
+然后是我们学的por（为了）
+
+infano=孩子
+
+fari=做；作
+
+她为孩子们做面包=Ŝi faras panon por infanoj
+
+还有就是：介词后面如果直接跟动词的话，要用动词原形如：
+
+为了做它=Por fari ĝin
+
+而不是Por faras ĝin
+
+然后我们学副词
+
+副词是修饰或限制动词和形容词，表示范围、程度等，而一般不能修饰或限制名词的词，如“屡次、快速地”
+
+在世界语中，副词以e结尾
+
+rapida=快速的
+
+rapide=快速地
+
+副词一般放在被修饰词的前后，或是句子的最前面或最后面（一般是后面）
+
+如：我快走=Mi iras rapide=Mi rapide iras
+
+它极好=Ĝi estas ekstreme bona=Ĝi estas bona ekstreme
+
+domo=房子
+
+dome=在房子里=en domo
+
+Mi iras en domo=Mi iras dome=我在房子里走
+
+表示地点的副词同样可以加n表示方向，不过因为副词仅能表示地点，不能表示具体方位（如在上？在下？在外？在内？），所以单独的副词+n只能表示跟al一样的功能
+
+如：
+
+Mi iras dome=Mi iras en domo=我在房子里走
+
+Mi iras domen=Mi iras al domo=我走向房子≠Mi iras en domon
+
+又如：
+
+oriento=东
+
+oriente=在东方=en oriento
+
+orienten=向东（地）=al oriento
+
+副词（表地点时）加n才表示方向，否则只表示地点
+
+下面我们学de和da
+
+de相当于“的”
+
+但实际上它的用法有很多，主要是表示“的”、组成被动、表示起点等
+
+这里先学习表示“的”
+
+汉语中，A的B=A的B
+
+但在世界语中，我们要说：
+
+A的B=B de A
+
+举个例子：
+
+amiko=朋友，domo=房子
+
+朋友的房子=domo de amiko
+
+vidi=看，vidas=vidi的现在时
+
+Mi vidas domon de amiko=我看朋友的房子
+
+因为被看的是domo，而不是amiko，所以domo加n，amiko不加n
+
+然后我们学习da
+
+da也相当于“的”，但它用于“量词”和名词之间，起到连接作用
+
+比如
+
+如果我们要说“一杯水”，就要用到da
+
+（一）杯=taso，水=akvo
+
+然后用da在中间进行连接
+
+所以“一杯水”=taso da akvo
+
+我喝一杯水=Mi trinkas tason da akvo
+
+（像de、da这样的词及介词后一般不用加n）如果你把da换成de，那句子的意思就变了
+
+Mi trinkas tason da akvo=我喝一杯水
+
+Mi trinkas tason de akvo=我喝水的一只杯子
+
+da还能跟multa（多的）的副词形式发生关系，如下
+
+multaj homoj（homo=人）=很多人=multe da homoj
+
+multa akvo=multe da akvo=很多水
+
+很多杯水=multaj tasoj da akvo=multe da tasoj da akvo
+
+即multa(j)=multe da
+
+同样地，还有kelka(j)=kelke da
+
+下面我们稍微提一下冠词
+
+世界语的冠词只有一个，就是“la”
+
+它的用法跟英语的“the”类似
+
+la没有变形，该词不能加j，也不能加n
+
+其中，da这个词后面不能跟la
+
+另外，初学者可以不使用la这个冠词
+
+接下来，我们开始学世界语中的一个重要组成部分——词缀
+
+词缀：词中附加在词根上的构词成分。常见的有前缀和后缀两种：
+
+(1)前缀：附加在词根前面的构词成分，如“阿姨”里的“阿”
+
+(2)后缀：附加在词根后面表示语法意义的语素，如“工业化”的“化”
+
+世界语中有几十个词缀，通过它们你可以创生出大量单词，单词的记忆负担因此也大幅减弱
+
+我们先学第一个前缀
+
+mal
+
+mal表示反义，它用于存在直接相反概念的词前
+
+前缀的用法很简单：直接加在单词前就行
+
+举几个例子：
+
+granda=大
+
+malgranda=小
+
+multa=多
+
+malmulta=少
+
+alta=高
+
+malalta=矮
+
+ami=爱
+
+malami=恨
+
+rapide=快速地
+
+malrapide=缓慢地
+
+然后我们再学几个后缀我们
+
+先学第一个后缀：ul
+
+ul表示有某种性质的人
+
+后缀的用法如下
+
+如
+
+alta=高的
+
+首先，我们把原来的词尾去掉，只剩词根alt
+
+然后把后缀加在后面，变成altul
+
+因为ul表示有某种性质的人
+
+所以altul=高的人
+
+但是你表达的“高的人”是个名词
+
+而名词必须以o结尾
+
+所以你还要再在后面加一个o
+
+即altulo
+
+所以，高的人=altulo
+
+再者
+
+bona=好的
+
+加上ul后缀：
+
+先把a去掉，加上ul，变成bonul
+
+意思是“好人”
+
+所以要再加上名词词尾o
+
+变成bonulo（好人）
+
+然后我们再学后缀in
+
+后缀in表示雌性、阴性
+
+如：
+
+knabo=男孩子
+
+加上in
+
+先去o变成knab，再加上in，变成knabin（女孩子）
+
+因为“女孩子”是名词，所以再加上名词词尾o，变成knabino
+
+所以：男孩子=knabo，女孩子=knabino
+
+后缀可以叠加使用，如下：
+
+juna=年轻的
+
+junulo（juna加上后缀ul）=少年；青年
+
+junulino（juna+ul+in）=少女
+
+maljuna=年老的（前缀mal+juna）
+
+maljunulo=老年人
+
+maljunulino=老年女性
+
+然后我们再学一个前缀ge
+
+patro=父
+
+patrino=母
+
+patroj=父亲们
+
+patrinoj=母亲们gepatroj=父母（因为两性一般是大于等于两个，所以一般用复数。如果你执意使用单数，即gepatro，那它表示的是父亲或母亲）
+
+frato=兄弟
+
+fratoj=兄弟们
+
+fratino=姐妹
+
+fratinoj=姐妹们
+
+gefratoj=兄弟姐妹们（如果有了前缀ge，那就不必再使用后缀in）
+
+然后我们再学后缀ec
+
+后缀ec表示性质、抽象概念
+
+比如：
+
+longa=长的
+
+但longo的意思不是“长”这一个概念，而是“长度”的意思
+
+所以如果你要表示“长”这一抽象概念，就需要后缀ec
+
+即longeco=长（名词）同样
+
+alta=高的
+
+alto=高度
+
+alteco才表示“高”这一抽象概念
+
+amika=友好的
+
+amiko=朋友
+
+amikeco=友谊（这一抽象概念）或“友好”（名词）这一抽象概念
+
+下面我们再学习后缀ej
+
+后缀ej表示某一场所
+
+比如：
+
+lerni=学习
+
+去i加ej再加上名词词尾o就是lernejo，意思是学习的地方，也就是学校
+
+所以lernejo=学校
+
+Mi lernas en lernejo=Mi lernas lerneje=我在学校学习kuiri=烹饪
+
+kuirejo就等于“厨房”
+
+Mi kuiras en la kuirejo=我在厨房做饭
+
+（注意la是冠词，相当于英语的the，初学者可不使用，另外冠词一般不翻译）
+
+necesa=必要的；必须的
+
+necesejo（去a加ej再加o）=必要的场所，也就是“厕所”的意思
+
+Mi iras al necesejo=Mi iras necesejen（副词词尾e表地点，再加n表方向）=我去厕所
+
+然后我们再学一个后缀aĵ
+
+后缀aĵ表示某种成品
+
+aĵ是后缀，使用方法同其他后缀
+
+如：
+
+oro=黄金
+
+oraĵo=金制品
+
+ovo=蛋；卵
+
+ovaĵo=蛋制品
+
+trinki=喝
+
+trinkaĵo=饮料
+
+manĝi=吃
+
+manĝo=吃（“吃”这个行为）
+
+manĝaĵo=食物
+
+学完部分词缀，我们再学完动词的所有时态
+
+我们已经知道，世界语动词的原型（不定式）以i结尾，现在时以as结尾
+
+则：
+
+世界语的过去时（过去时表示动作发生于过去）以is结尾
+
+世界语的将来时（将来时表示动作发生于将来）以os结尾
+
+世界语的假定时（表示不一定发生或假想、假设；假定时还能俾语气缓和）以us结尾
+
+世界语的祈使时（表示命令或请求）以u结尾举几个例子：
+
+dormi=睡觉
+
+Mi dormos=我将要睡觉
+
+Mi dormis=我睡了觉
+
+Mi dormus（假设）我睡觉（假定时一般用se这个词，但也不一定，se的意思是“如果”）
+
+Mi dormu=（让）我睡觉吧
+
+下面我们讲比较级
+
+单词pli的意思是“更”
+
+pli multa=更多
+
+pli granda=更大
+
+pli bona=更好
+
+单词ol表示比较
+
+看下例句
+
+我比你更高=Mi estas pli alta ol vi
+
+她比你更富=Ŝi estas pli riĉa ol vi（riĉa=富的）
+
+比起睡觉，我更喜欢工作：Mi pli ŝatas labori ol dormi（喜欢=ŝati，labori=工作，
+
+dormi=睡觉。别忘了像por、ol等介词后要用动词原形）
+
+比起苹果（pomo），我更需要（bezoni）香蕉（banano）：
+
+Mi pli bezonas bananojn ol bezoni pomojn。这里，因为bananojn和pomojn所承受的动作一致，所以bezoni可省略，即Mi pli bezonas bananojn ol bezoni pomojn=Mi pli bezonas bananojn ol pomojn
+
+pli前还能加mal变成malpli，意思是更不……的
+
+pli alta=更高
+
+malpli alta=更不高（反义）
+
+Mi kuras malpli rapide（我跑得更不快）
+
+Mi kuras malpli rapide ol vi（我跑得不如你快）
+
+下面我们学习最高级
+
+单词plej=最
+
+加上mal变成malplej（最低级）
+
+malplej alta是plej alta的反义
+
+Ĝi estas la plej alta monto=它是最高的山
+
+monto=山
+
+另外这里用到了冠词la，一般形容词最高级前要加冠词la
+
+Mi kuras plej rapide=我跑得最快
+
+这里再学一个单词el
+
+el是介词，表示在……出来
+
+el domo=在房子里出来
+
+Mi iras el la domo=我在房子里走出来
+
+el也用于最高级中，表示限定范围
+
+如：她是他们中最高的
+
+“他们中”就是最高级的限定范围
+
+翻译：Ŝi estas la plej alta el ili
+
+我是我们中跑得最快的=Mi kuras plej rapide el ni此外，pli后还能加da
+
+pli da=更多的=pli multa=pli multe da
+
+malpli da得意思就是“更少的”了
+
+Mi bezonas pli da ruĝaj pomoj=我需要更多的红苹果（da等介词后一般不加n）
+
+那就变成了Mi bezonas pli ruĝajn pomojn=我需要更红的苹果=Mi bezonas pomojn pli ruĝajn
+
+现在我们学两个后缀
+
+一个是ig，一个是iĝ
+
+后缀ig表示奏效的、使役的、改变的动作。位于ig前的事物始终表示该动作的结果
+
+举个例子：
+
+longa=长
+
+longa加上后缀ig，首先变成longig
+
+然后ig表示奏效的、使役的、改变的动作，即一般表示动词所以longig要加i变成longigi（延长）
+
+Longigu ĝin（longigu是longigi的祈使时）=延长它！
+
+ruĝa=红
+
+加上ig变成ruĝigi（赤化）
+
+Ni ruĝigos la mondon（我们将赤化世界）
+
+manĝi=吃
+
+manĝigi=使……吃
+
+Ŝi manĝigas min=她让我吃饭
+
+Ŝi manĝas min=她吃我
+
+sidi=坐下
+
+Li sidigas la infanojn（infano=孩子）=他让孩子坐下
+
+Li sidigas la infanojn sur seĝojn（seĝo=椅子。别忘了介词和n共同作用可以表示方
+
+向）=他让孩子坐到椅子上
+
+edzo=丈夫
+
+edzigi=edzo-o+ig+i=娶
+
+字面意思就是“把……变成丈夫（伴侣）”的意思
+
+然后我们学习后缀iĝ
+
+iĝ表示向新状态、新地点、新动作的转变。位于前的事物始终表示转变的结果
+
+例如：
+
+ruĝa=红
+
+ruĝigi=赤化
+
+ruĝiĝi=（某物自己）变红
+
+vizaĝo=脸
+
+Ŝia vizaĝo ruĝiĝis=她的脸变红了
+
+Ĝi komenciĝis=它开始了
+
+注：如果说Ĝi komencis，那它一般要有一个宾语，因为komenci这个词本身更相似于komencigi（使……开始）。如果要单纯地说某物开始了，要用iĝ后缀
+
+类似的还有fino=终末；结束
+
+Finu ĝin≈Finigu ĝin=结束它！
+
+Ĝi finiĝis=它结束了
+
+iĝ跟fari结合成fariĝi，意思是“成为；变成”
+
+它跟esti是同一个性质的词，后面的词都不加n
+
+如：Mi volas fariĝi ŝia amiko=我想成为她的朋友
+
+再举个例子：
+
+edzo=丈夫
+
+edzino=妻子
+
+edziniĝi=成为（……的）妻子=嫁
+
+Ŝi edziniĝis=她出嫁了
+
+fermi=关
+
+malfermi=开
+
+pordo=门
+
+La pordo malfermiĝis=门开了
+
+下面我们学习五个小词：ankaŭ nur mem tre tro
+
+ankaŭ=也，nur=只
+
+这两个词必须放在你要强调的词的前面，如：
+
+Ankaŭ mi trinkis akvon=我也喝了水（表示不仅可能别人喝了水，我也喝了水）Mi ankaŭ trinkis akvon=我也喝了水（表示我不仅可能烧了水，也喝了水）
+
+Mi trinkis ankaŭ akvon=我也喝了水（表示我不仅可能喝了饮料，也喝了水）
+
+nur同理
+
+hejmo=家
+
+Nur mi iros al ŝia hejmo=只有我去她家（强调只有我去）
+
+Mi nur iros al ŝia hejmo=我只去她家（强调我只去）
+
+Mi iros al nur ŝia hejmo=我只去她的家（强调只去她家）
+
+然后是mem
+
+mem的意思是表示只有……自己
+
+但它不是放在强调词的前面，而是后面
+
+如
+
+Mi mem iris=我自己去的
+
+强调只有我一个人
+
+Ŝi mem dormis=她自己睡的觉强调睡觉时只有她一个人
+
+然后是tre和tro
+
+tre的意思是“很；非常”，tro的意思是“太”
+
+tre granda=很大
+
+tro granda=太大了
+
+tre rapida=很快的
+
+tro rapida=太快了
+
+我喝了很多水=Mi trinkis tre multan akvon
+
+Mi trinkis tro multan akvon=我喝了太多的水
+
+注意“Mi trinkis tro multan akvon”这句还有另一种关于tro的说法，这也是tro的另一个用法：
+
+即：tro da=太多的
+
+我喝了太多的水=Mi trinkis tro multan akvon=Mi trinkis tro da akvo（别忘了da后的词不用加n）
+
+数字
+
+世界语的基本数字词如下
+
+nul=0
+
+unu=1
+
+du=2
+
+tri=3
+
+kvar=4
+
+kvin=5
+
+ses=6
+
+sep=7
+
+ok=8
+
+naŭ=9
+
+dek=10
+
+cent=100
+
+mil=1000
+
+使用方法：
+
+个位数：直接表达即可
+
+如：
+
+五：Kvin
+
+一：Unu
+
+四：Kvar
+
+十位数：十位数词和各位数词分开写。如：
+
+十一：Dek unu
+
+十三：Dek tri
+
+十六：Dek ses
+
+十八：Dek ok
+
+如果十位数大于1，则十位数上的数需跟dek结合成一个词。如：
+
+五十一：Kvindek unu
+
+二十三：Dudek tri
+
+九十九：Naŭdek naŭ
+
+百位数同理于十位数。如：
+
+一百二十三：Cent dudek tri
+
+二百三十一：Ducent tridek unu
+
+二百三十三：Ducent tridek tri九百九十九：Naŭcent naŭdek naŭ
+
+千位数（mil）则永远独立成词，即千位数上的数不为1，也要独立写。如：
+
+一千二百三十四：Mil ducent tridek kvar
+
+四千二百三十一：Kvar mil ducent tridek unu
+
+九千九百九十九：Naŭ mil naŭcent naŭdek naŭ
+
+一万：Dek mil
+
+十万：Cent mil
+
+注：数词中的“零”不读，直接略过。如：
+
+一千零一：并不写成Mil nul nul unu，而是直接写成Mil unu
+
+二百零三：并不写成Ducent nul tri，而是直接写成Ducent tri
+
+一万零一十一：Dek mil dek unu
+
+Kvincent dek kvar pomoj=五百一十四个苹果
+
+小数：
+
+读小数需要用到词komo，意思是“逗号”
+
+小数部分的读法与汉语完全相同。如：
+
+三点一四一五九二六五三五八九=Tri komo unu kvar unu kvin naŭ du ses kvin tri kvin ok naŭ
+
+十点零零一：Dek komo nul nul unu
+
+五十一点四零五一四：Kvindek unu komo kvar nul kvin unu kvar阿拉伯数字的写法：
+
+在世界语中，小数点是逗号（,），而不是点句号（.）
+
+即：
+
+世界语：514,514=汉语：514.514
+
+世界语：3,141592653589=汉语：3.141592653589
+
+在世界语中，千位分隔符是点句号（.），而不是逗号（,）
+
+即：
+
+世界语：12.345=汉语：12,345
+
+世界语：1.145.141.919.810=汉语：1,145,141,919,810
+
+序数词：
+
+序数词表示第几，如“第一”“第二”“第十”都为序数词
+
+世界语的序数词变化方法是：直接在数词最后面加上a（性质类似于形容词了。即可以加j和n）
+
+如：
+
+unu=一
+
+unua=第一
+
+dek=十
+
+deka=第十
+
+homo=人
+
+Unuaj dek homoj=前十个人
+
+第一百零一=cent unua
+
+第二十三=dudek tria
+
+数词还能加副词词尾e。如：
+
+unue=首先
+
+due=其次
+
+trie=第三（地）
+
+表解词：
+
+在世界语中有45个被称为表解词（或相关词）的小词，因为人们可以依据相似的形式和相似的意思，将它们排列成表
+
+可以说，每一个表解词都由首部和尾部组成，但是不要将表解词视为合成词。表解词的组成部分构成单独的闭合系统，通常情况下，不要将其与世界语的普通词素相混
+
+首部
+
+ki-疑问词，关系词，感叹词
+
+ti-指示词
+
+i-不定词
+
+ĉi-全包词
+
+neni-否定词
+
+尾部
+
+-u个体
+
+-o事物
+
+-a性质，种类
+
+-es物主
+
+-e地点
+
+-am时间，次数
+
+-al原因
+
+-el方式，程度
+
+-om数量
+
+组合：
+
+kiu=谁/哪一个，tiu=那人/那个（指示词，指本体），iu=某人/某个（不确定的人、物品或事物），ĉiu=每人/每个（全包容词，指人、物品或事物），neniu=无人/一个也没有（否定词，指人、物品或事物）；
+
+kio=何物/什么，tio=那/那个事物，io=某事物，ĉio=所有事物/一切，nenio=没有东西/什么都没有；
+
+kia=何样的/何种，tia=那样的/那种，ia=某样的/某种，ĉia每种的/各样的/任何的，nenia=什么样的都没有；
+
+kies=谁的/哪些人的/……的，ties=那人的/那些人的/那的，ies=某……的，ĉies=每人的/所有人的，nenies=不属于任何人的/谁的也不是；
+
+kie=在何地/哪里/何处，tie=在那里/，ie=在某地/在某处，ĉie=各地/到处，nenie=无处
+
+kiam=何时，tiam=当时/那时，iam=某时/曾经，ĉiam=总是/始终，neniam=从来没有/永不
+
+kial=为何，tial=因其/故，ial=不知何故/出于某种原因，ĉial=种种原因，nenial=无理由地
+
+kiel=如何，tiel=那样地/如此，iel=以某种方式，ĉiel=千方百计，neniel=无论如何也不
+
+kiom=多少，tiom=那么多，iom=一点/稍微，ĉiom=总共/全部，neniom=毫无
+
+有些表解词的尾部类似于普通词尾，但是意义却不同
+
+普通的名词o词尾和表解词的o部分意义几乎相同，但是o尾表解词通常不跟复数词尾j
+
+普通的词尾u是动词词尾，表示意愿式/命令式，而表解词的u部分表示个体完全是两回事
+
+普通的形容词词尾a是一般的修饰性词尾。它常常表示性质和特征，但是也可以表示归属、关系、个性等。表解词的a部分只表示性质和种类
+
+普通的副词词尾e可以表示方式、时间、地点、度量、状况及其他意义。表解词的e部分始终只表示地点
+
+KI首表解词：
+
+Kiu Kio Kia Kies Kie Kiam Kial Kiel Kiom
+
+kiu=谁；哪一个
+
+Kiu estas via amiko=谁是你的朋友
+
+koni=认识
+
+Kiun homon vi konas=你认识哪一个人
+
+Kiun vi konas=你认识谁
+
+注：以U作为尾部的表解词可以加j，也可以加n
+
+kio=何；什么Kio estas amikeco=何为友谊
+
+Esperanto=世界语
+
+Kio estas Esperanto=什么是世界语
+
+注：以o结尾的表解词一般只能加n，且不能作修饰语（如人们可以说kiu homo来表达哪一个人，而不能说kio homo）
+
+kia=什么样的
+
+Kiaj estas viaj amikoj=你的朋友们是什么样的
+
+Kia homo estas ŝia amiko=她的朋友是什么样的人
+
+以a结尾的表解词可以像u结尾的表解词一样作修饰语，以及添加j和n词尾
+
+kies=谁的
+
+Kies estas la ĉambro=是谁的房间
+
+Kies domo=谁的房子
+
+以es结尾的表解词可以作修饰语，不能加j或n
+
+kie=何处，e结尾的表解词可以添加n表示方向
+
+Kie vi estas=你在哪里
+
+Kien ni iros=我们要去哪儿
+
+以e结尾的表解词不能作修饰语
+
+kiam=何时
+
+Kiam ni iros=我们什么时候去Kiam vi dormos=你什么时候睡觉
+
+以am结尾的表解词不能加j或n，也不能作修饰语
+
+kial=为什么
+
+Kial vi ne iras=为什么你不去
+
+Kial vi ne manĝas=你为什么不吃呢
+
+以al结尾的表解词不能加j或n，也不能作修饰语
+
+kiel=如何；怎么
+
+Kiel vi iros=你将怎么去
+
+Kiel vi lernas=你怎么学习
+
+kiel也有“（作）为”的意思，如：
+
+Kiel lia amiko,mi venis=作为他的朋友，我来了
+
+以el结尾的表解词不能加j或n，也不能作修饰语
+
+kiom=多少
+
+Kiom vi scias=你知道多少
+
+Kiom da pomoj vi havas=你有多少苹果（kiom后如果跟具体的某物时，要用da连接）
+
+Kiom da homoj=多少人
+
+以om结尾的表解词不能加j或n，也不能作修饰语
+
+剩下的表解词亦是按这个规则组合，可根据（PIV的）例句自行理解
+
+接下来我们学一个反身代词Si
+
+当一个句子的动作发出者和动作的直接承受者相同，且都为第三人称（注意，必须是第三人称，即她、他、它、她们、他们、它们）时，动作接受者就要改成反身代词si，如：
+
+vidi=看
+
+Li vidas sin=他看他自己
+
+如果你不用si，而是li，那Li vidas lin的意思就是：他在看另一个人，而不是他自己
+
+Tiu homo vidas sin=那个人看他自己
+
+Tiu homo vidas tiun homon=那个人看那个人（不再是那个人自己）
+
+Ili vidas sin=他们看他们自己
+
+Ili vidas ilin=他们看他们（另一群人，而不再是他们自己）
+
+si同样可以加a变成sia，进而变成siaj、siajn
+
+Ŝi ŝatas sian ĉambron=她喜欢她自己的房间（ŝati=喜欢）
+
+下面我们再学一些单词
+
+sen...=无；没有
+
+vivi=生活；活
+
+Ni ne povas vivi sen akvo=没有水，我们就不能活
+
+sur...=在……上
+
+sub...=在……下
+
+super...=在……上方
+
+antaŭ=在……前。如果要表示某一动作的时间更靠前，则需要加ol，如：antaŭ ol dormi=在睡觉前（别忘了介词后的动词一般用原型，但如果跟句子就不用，如“Antaŭ ol vi manĝas”，即“在你吃之前”，而不是“Antaŭ ol vi manĝi”）
+
+malantaŭ...=在……后（mal+antaŭ）
+
+post...=在……后（一般指时间。如果要加动作，单词post不需要ol：Post unu tago=一天后，post manĝi=进食后）
+
+laŭ...=根据；沿着
+
+apud...=在……旁
+
+ĉe...=在……（某一具体的点上，位置比apud更精确）
+
+ekster...=在……外
+
+per...=通过/凭借……（per labori=通过工作，per mono=用钱）
+
+tra...=贯穿/横贯/贯通……（tra la mondo=横贯全球）
+
+trans...=在……另一侧
+
+kvankam=虽然；即使（放在句子开头）
+
+kvazaŭ=仿佛（放在句子开头）
+
+inter...=在……之间（inter tri homoj=在三个人之间）
+
+tuj=立刻
+
+tamen=然而（放在句子开头）
+
+sed=但是（放在句子开头）
+
+pro...=因为（后跟词或词组，如果是动词要用原型）
+
+ĉar=因为（后跟句子）
+
+nun=现在
+
+nu=呐
+
+plu=再（Mi ne plu volas iri=我不再想去了）
+
+pri...=关于……
+
+下面我们学习非常有用的构词法
+
+构词法就是用原有的单词来造新词
+
+构词时，通常只使用词根构词
+
+vespero=夕；晚上
+
+它的词根是vesper
+
+manĝi=吃
+
+所以vespermanĝi=吃晚饭
+
+Mi vespermanĝos=我要吃晚饭了
+
+tago=日（日期意义）；白天
+
+tagmanĝi=吃午饭
+
+mateno=早晨
+
+matenmanĝi=吃早饭
+
+milito=战争
+
+ŝipo=船
+
+militŝipo=战舰
+
+voĉo（声音）+doni（给）→voĉdoni（投票，不是给个声音）
+
+piedo（脚）+iri（走）→piediri（走路，用脚走）
+
+kapo（头）+jesi（同意,=jes+i。同理，ne+i-nei=否定）→kapjesi（“点头同意”）
+
+scii（知道）+volo（想）→scivolo（想知道，对某事感到好奇）→scivola（好奇的）
+
+Bona（好的）+koro（心）→bonkoro→bonkora（好心的，善良的）
+
+bona（好的）+deziro（希望）→bondeziro（良好祝愿）
+
+rapida（快的）+vagonaro（列车=vagon+ar+o）→rapidvagonaro（快速火车）
+
+nova（新的）+jaro（年）→novjaro（新年）
+
+domo（房子）+pordo（门）→dompordo（房门）
+
+vino（红酒）+botelo（瓶子）→vinbotelo（红酒瓶）
+
+floro（花）+poto（盆）→florpoto（花盆）
+
+poŝto（邮件）+marko（标记）→poŝtmarko（邮票）
+
+其他的例子：
+
+pri=关于……
+
+industrio=工业
+
+industriigi=工业化
+
+industriiga=工业化的
+
+pri industriigo=关于工业化
+
+priindustriiga=关于工业化的
+
+Priindustriiga plano=关于工业化的计划（plano=计划）=plano pri industriigo
+
+sen=没有……
+
+vesto=衣服
+
+sen vesto=没有衣服
+
+senvesta=没有衣服的
+
+senvestulo=没有衣服的人（用到了后缀ul）
+
+senvestigi=使……没有衣服
+
+Ŝi senvestigis min=她把我的衣服脱光了
+
+sur tablo=在桌子上
+
+Mi sidas sur tablo=我坐在桌子上
+
+surtabla=在桌子上的
+
+surtable=在桌子上=sur tablo
+
+Mi sidas sur tablo=Mi sidas surtable
+
+Mi sidas sur tablon=Mi sidas surtablen=我坐到桌子上
+
+ekster=在……外lando=国
+
+eksterlanda=外国的；国外的
+
+eksterlande=在国外
+
+Mi vivas eksterlande=我生活在国外
+
+ekster hejmo=eksterhejme=在家外
+
+eksterhejma homo=家外的人
+
+Mi iros ekster hejmon=Mi iros eksterhejmen=我要出去了（到家外面）
+
+tra=横贯；贯穿……
+
+nokto=夜晚
+
+tranokta=通宵的
+
+tra+nokt+i=tranokti=过夜
+
+下面学习一个小知识点
+
+[动词]+[介词]=[介词动词]
+
+如
+
+iri al=aliri=去……（向）
+
+iri ekster=eksteriri（走出）
+
+iri apud=apudiri（走到……旁）
+
+iri ĉirkaŭ=ĉirkaŭiri（围着……走。ĉirkaŭ的意思是“围着；在……周围；大约”）
+
+Mi iras al ŝia ĉambro=Mi aliras ŝian ĉambron=我去她的房间Ŝi iras apud min=Ŝi apudiras min=她走到我身旁
+
+Ŝi iras apud mi=她在我旁边走（注意n和介词的用法）
+
+另外，词缀和表解词也能进行构词
+
+mal表示反义
+
+mal+o=malo=反义（词）
+
+mal+a=mala=相反的；反义的
+
+tiam=那时
+
+加上ul变成tiamulo（再加了o）=那时的人
+
+kie=何处
+
+kie+o=kieo=地方；所在
+
+kiam=何时
+
+kiamo=时刻
+
+kiel=如何
+
+kielo=方式
+
+ig后缀和iĝ后缀加上i也可以单独成词
+
+igi=使
+
+igi harmonion esti valora（harmonio=和谐，valora=珍贵的）=以和为贵
+
+igi ĝin esti homo=把它变成人
+
+这里就涉及到了一个小知识点即：动词I+动作承受者I+动词II+动作承受者II时，只有动词I的时态该是什么是什么，动词II用原型
+
+介词也可以添加词缀
+
+sen+ig+i=senigi=使……无=取消
+
+el=在……中出来
+
+eliĝi=溢出；出来
+
+en domo=在屋子里
+
+endoma=在屋子里的
+
+endomigi=把……弄到屋子里
+
+其他：
+
+mia=我的，opinio=观点；看法，miaopinie=en mia opinio=在我看来（≈laŭ mi）
+
+via=你的，lando=国家，vialande=en via lando=在你的国家
+
+总之，世界语的构词非常灵活，很多词都是拿过来就能构词
+
+这里先讲这些，其他的可以在实践中学习我们再讲几个可以用于词缀性的词（以下为单词，并非词缀）
+
+mem
+
+sin（si的宾格形式）
+
+ĉi
+
+el
+
+fini
+
+plena
+
+riĉa
+
+hava
+
+viro
+
+vica
+
+kelka
+
+mem可以表示“自”，如：
+
+memfari=自己做memfido=自信（fido=信仰）
+
+regi=统治；控制
+
+memregi=自治
+
+sin表示受动于自己
+
+如：
+
+morti=死
+
+sinmorti=自杀
+
+ĉi表示“此”
+
+tiu=那个
+
+ĉi tiu=tiu ĉi=这个（位置亦前亦后，ĉi不加j或n）
+
+ĉi tiam=tiam ĉi=这时
+
+ĉi用于构词：
+
+ĉi-nokta=今晚的（nokto=夜晚）
+
+ĉi-jara=今年的（jaro=年）
+
+ĉi-jare=在今年
+
+el这个词表示在……出来
+
+但是如果它在单词前作为前缀性元素时，通常表示完成
+
+uzi=用
+
+eluzi=用完
+
+fari=做
+
+elfari=完成
+
+manĝi=吃
+
+elmanĝi=吃完fini的词根fin可表示结束，表示动作的终结，约等于el的作用（elfari≈finfari）
+
+plena的意思是“满的；全”
+
+它跟在某物后面构词，表示……满的
+
+aero=空气
+
+aerplena=充满空气的
+
+amo=爱
+
+amplena=充满爱的
+
+riĉa和hava的词根用法跟plena的词根一样，在后面构词，分别表示富有……的和有……的oro=金
+
+orriĉa=富含金的
+
+tempo=时间
+
+temphava=有时间的
+
+（hava是havi的形容词形式）
+
+viro的意思是“男人”，它的词根vir可表示雄性
+
+bovo=牛
+
+virbovo=公牛
+
+bovino=母牛
+
+viro作为一个单词可正常构词：
+
+viro=男人
+
+virino=女人
+
+vica的词根vic表示“副的”“备用的”
+
+direktoro=主任
+
+vicdirektoro=副主任
+
+rado=轮
+
+vicrado=备用轮
+
+kelka表示“一些”，它作为词缀性元素时，用法一般如下：
+
+dekkelka=十几
+
+kelkdeka=几十
+
+centkelka=一百多
+
+kelkcenta=几百这里有一百多人Ĉi tie estas centkelkaj homoj（用esti而不是havi的原因是：esti可以表示“是；存在”，而havi只能表示“从属”的“有”）
+
+关于centkelkaj homoj（一百多人），有一个比较级的补充用法，这里补充一下：
+
+pli ol=超过
+
+malpli ol=少于
+
+因此：
+
+centkelkaj homoj=pli ol cent homoj=一百多人
+
+现在基础部分已基本完成，下面是几个会话用语
+
+Saluton（你好）
+
+这个词的原型是saluti（问候），名词为saluto，saluton相当于是Mi diras/donas saluton al vi的缩略形式，故saluton=你好
+
+Pardonon=对不起（同理于saluton）
+
+Pardonu=请原谅
+
+关于再见：
+
+再见有两种说法
+
+1、Ĝis：这个词就是介词“直到”的意思，它常用于短时间的再见，它的后面可以跟下次见面的时间，如：Ĝis revido（re表再次，vido=看，revido=下次见面）
+
+Ĝis nokto（直到晚上→晚上见）
+
+Ĝis morgaŭ(o)（直到明天→明天见）
+
+2、Adiaŭ：这个再见就是“再见”，用于长时间的告别
+
+以下（缩略原理同saluton）：
+
+Bonan matenon=早上好
+
+Bonan tagon=日安
+
+Bonan antaŭtagmezon=上午好
+
+Bonan tagmezon=中午好/午安
+
+Bonan posttagmezon=下午好
+
+Bonan vesperon=晚上好
+
+Bonan nokton=晚安
+
+Bonan apetiton=祝好胃口
+
+Bondeziron（=bon+dezir+o+n）=好的祝愿
+
+Gratulon=祝贺
+
+Pardonu/Pardonon=请原谅/对不起
+
+Ne gravas=没关系
+
+Mi petas：直译为“我请求”，通常以逗号+“mi petas”的形式加在句子最后，表示更加委婉的语气。（如：Bonvolu doni al mi,mi petas）
+
+Bonvolu（bon+vol+u）=请
+
+Bonvenon（bon+ven+o+n）=欢迎
+
+Dankon=谢谢
+
+Nedankinde（ne+dank+ind+e，直译为“不值得感谢”）=不用谢
+
+关于这里，就又有了一个新的句子结构，如下：Xxxi（+xxxn）+esti+xxxe=Esti+xxxe+xxxi（+xxxn）=做……是……的
+
+你也可以加上por或al表示对象：
+
+Al/Por mi,lerni Esperanton estas facile（对于我来说，学世界语是简单的）
+
+等于Lerni Esperanton estas facile al/por mi
+
+等于Estas facile al/por mi lerni Esperanton。即al/por mi作为整体可移动，原理同Mi donas panon al vi（我给你面包）中的al vi
+
+关于时间的表达：
+
+一般这样询问时间：
+
+Kioma horo estas(nun)=（现在）几点了
+
+回答：
+
+Esti+la+序数词+horo+kaj+基数词+minuto(j)，其中，horo和minuto可省略
+
+la+序数词+horo表示小时
+
+基数词+minuto(j)表示分钟
+
+比如“是五点十四分”=Estas la kvina horo kaj dek kvar minutoj
+
+horo和minutoj可省略
+
+Estas la kvina horo kaj dek kvar minutoj这个句子里有动词，所以这是个句子，而不是表示时间的短语。如果你要用短语表示时间，你可以用介词je（je是个不定介词，当我们找不到合适的介词时，就用它）
+
+在五点十四分=Je la kvina kaj dek kvar
+
+句型：esti tempo xxxi=是做xxx的时间
+
+此外，je+xxx可以用xxxn代替
+
+即n也能表示时间
+
+比如：
+
+在世界语中，我们用序数词表示日期
+
+2号=2a（Dua）
+
+“在2号”就是“Duan”，或“2an”
+
+在五月（的）十四日：
+
+14an de majo（majo=五月）
+
+然后是十二个月的表达
+
+依次为“一月”到“十二月”（前通常不加la，且首字母需要大写）
+
+一月=Januaro
+
+二月=Februaro
+
+三月=Marto
+
+四月=Aprilo
+
+五月=Majo
+
+六月=Junio
+
+七月=Julio
+
+八月=Aŭgusto
+
+九月=Septembro
+
+十月=Oktobro
+
+十一月=Novembro
+
+十二月=Decembro
+
+关于后天和前天
+
+antaŭ=在……之前
+
+hieraŭ=昨天
+
+antaŭhieraŭ=前天
+
+post=在……之后
+
+morgaŭ=明天
+
+postmorgaŭ=后天
+
+关于四季：
+
+季（节）=sezono
+
+春=printempo
+
+夏=somero
+
+秋=aŭtuno
+
+冬=vintro
+
+一周七天（星期一到星期天）：
+
+周一=lundo
+
+周二=mardo
+
+周三=merkredo
+
+周四=ĵaŭdo
+
+周五=vendredo
+
+周六=sabato
+
+周日=dimanĉo
+
+以上，世界语基础部分告一段落
+
+下面我们讲从句
+
+一：KE式从句
+
+当主语、宾语/表语为一个句子时，我们将该主语或宾语/表语放在句子的最后面
+
+其余部分按照正常语序放在前面
+
+前面的叫主句
+
+后面的叫从句
+
+中间用ke连接，ke不翻译，ke不可省略
+
+“我知道他来了”
+
+“他来了”是宾语，是一个句子，所以我们把它放在最后面（虽然已经在后面了）
+
+其余部分按照正常语序放在前面
+
+这样一来，就形成了两个部分：“我知道”（主句）
+
+“他来了”（从句）
+
+然后翻译：
+
+Mi scias（我知道）
+
+li venis（他来了）
+
+然后中间用ke连接，另外，ke前通常加一个逗号
+
+最终就是：
+
+Mi scias,ke li venis（我知道他来了）
+
+以上为第一种情况
+
+即宾语/表语为句子
+
+当主语为句子时，做法如下：
+
+“他会说世界语是个事实”
+
+“他会说世界语”是主语，为一个句子
+
+是=动词
+
+事实=宾语/表语
+
+在这里主语为句子，我们要做的就是把主语放在最后，剩余部分按照正常语序放在前面
+
+形成了：
+
+“是事实”=主句
+
+“他会说世界语”=从句然后进行翻译和连接
+
+Estas fakto（fakto=事实）
+
+li povas paroli Esperanton（paroli=说/讲）
+
+用ke连接
+
+Estas fakto,ke li povas paroli Esperanton
+
+再举个例子
+
+“我会说世界语是真的”
+
+“我会说世界语”=主语，放在后面
+
+变成：
+
+“是真的”=主句（在前面的是主句）
+
+“我会说世界语”=从句
+
+vera=真的，但是别忘了“在esti+形容词的结构中时，如果不存在被修饰词（仅形容词单独出现时），形容词的词尾a要改为副词词尾e”
+
+所以“是真的”要翻译成Estas vere，原本vera修饰主语，但是主语到从句里去了，它们不再在一个句子里了，所以主句中没有被修饰语了
+
+翻译：
+
+Estas vere
+
+mi povas paroli Esperanton
+
+连接：
+
+Estas vere,ke mi povas paroli Esperanton
+
+KE式从句还能用于补充
+
+Diru al li la informon（informo=通知）ke ni ne venos morgaŭ=告诉他通知，我们明天不去了
+
+主句是Diru al li la informon
+
+成分完整
+
+而从句的“ni ne venos morgaŭ”是在解释informo是什么
+
+即informo的内容
+
+即：KE用于补充说明
+
+我们讲ki式从句
+
+首先是Kiu
+
+看下面这个句子：
+
+Mi vidis la viron,la viro trovis min（我看到了那个男人，那个男人找了我）
+
+当同一个男士在这两句中都起作用时
+
+我们就可以把第二个句子变成从句
+
+第二句的la viro换成kiu
+
+即：Mi vidis la viron,kiu trovis min=我看到了那个找了我的男人
+
+你也可以这么理解：
+
+“我看到了那个找了我的男人”中，“找了我的”对“那个男人”进行修饰。这时，“找了我”是个句子，我们把这个句子放到最后：
+
+“我看到了那个男人”=主句
+
+“找了我”=从句
+
+这里，kiu这个词原本是用于代替个体，而“那个男人”为个体，而且这又是ki式从句，即从句都以ki首表解词开头的句子，所以我们用kiu进行连接：
+
+Mi vidis la viron,kiu trovis min（kiu=la viro）
+
+此外，kiu不一定代指人，只要是已知的事物都可以
+
+如：
+
+“我吃了你给你我的苹果”
+
+“你给我”修饰“苹果”，放到最后
+
+“我吃了苹果”=主句
+
+“你给我（的）”=从句
+
+苹果已知，且在从句中苹果仍起作用
+
+所以：
+
+Mi manĝis pomon=主句
+
+vi donis al mi=从句
+
+注意：这里用kiu连接时，kiu要加n，因为kiu属于从句，而kiu在从句中是donis的直接承受者，所以要加n
+
+即：
+
+Mi manĝis pomon,kiun vi donis al mi（kiun=pomon）
+
+kiu做指代，在从句中指代主句中你要解释的对象，在从句中承受动作
+
+另外，如果你要指代的对象为复数，那kiu也要用复数
+
+如：
+
+Mi konas la homojn,kiuj venos（我认识要来的人）（kiuj=homoj）
+
+再补一个用法
+
+如果主句中没有说明具体的“个体”，一般用tiu(j)替代
+
+比如：
+
+我知道要来的=Mi scias tiujn,kiuj venos（没有具体说这些“个体”是什么，所以在主句中可以用tiuj代替）
+
+tiu、kiu后还能加具体事物
+
+如：
+
+Mi scias tiujn homojn,kiuj(homoj)venos
+
+此外，如果主句中只有ti首词指代，且主句中的ti首词和从句开头的ki首词同时有宾格词尾n或同时没有宾格词尾n的话，那主句ti首词可以省略，如：
+
+Mi scias tiujn,kiujn li konas=Mi scias kiujn li konas
+
+其他例子：
+
+我看到你看到的人了=Mi vidis la homon,kiun vi vidis（la homon=kiun）
+
+我是你喜欢的人=Mi estas la homo,kiun vi ŝatas（la homo=kiun）
+
+kiu还能对已知事物进行补充式修饰，如：
+
+la homo,kiu trovos min=要找我的人（la homo=kiu）
+
+要找我的人是谁=Kiu estas la homo,kiu trovos min（la homo=从句的kiu）
+
+kiu首词就这么多，剩下的ki首词就可以类比了
+
+下面讲kio
+
+kio与kiu类似，但它用于你要指代的事物不明之时
+
+另外，当从句首词的尾部是什么，那主句作为代词的表解词的尾部也就必须是什么
+
+比如：
+
+我知道什么是好的=Mi scias tion,kio estas bona
+
+而且可见，从句以kio开头，主句的作为代词的表解词的尾部也必须是o
+
+“好的不是坏的”=Tio,kio estas bona,ne estas malbona=Kio estas bona ne estas malbona（主句中的ti首词和从句开头的ki首词同时有宾格词尾n或同时没有宾格词尾n的话，主句ti首词可以省略）
+
+如果你把tio、kio换成tiu、kiu，那意思就变成了“好的（某个东西）不是坏的”，即不再“泛指”了（别忘了o尾部表解词不能加j，只能加n）
+
+且o尾部表解词不能作修饰语
+
+如：你只能说“tiu homo”（那个人），而不能说“tio homo”
+
+kio在从句开头时，修饰的是前面主句的含有谓语动词的某一“动作”事件
+
+例：
+
+Ŝi faris pladon,kiu estas interesa中，kiu说明的是plado［plado=（一道）菜，interesa=有趣的］
+
+Ŝi faris pladon,kio estas interesa中，kio说明的是(Ŝi)faris pladon
+
+然后，其余从句就同理了
+
+Mi venas(tiam,)kiam li iras=我在她走的时候来（as尾部表解词表时间）
+
+我们看剩下的ki式从句
+
+kies表示某人/物的
+
+那个门很大的屋子很大=La domo,kies pordo estas granda,estas granda（pordo=门）
+
+kie表示在某处
+
+(Tie,)Kie mi loĝas estas bona loko=我住的地方是个好地方（loĝi=住，loko=地方）
+
+Tie,kien mi iros estas via hejmo=我要去的地方是你家
+
+kia表示某种性质
+
+Mi estas tia,kian vi amas=我是你爱的那种
+
+kiel表示某种方式或程度
+
+Ŝi estas bela kiel Jujuko（她像幽々子一样美）
+
+kiel后的Jujuko对bela进行修饰
+
+kiom表示数量
+
+Nun vi havos tiom(multe)da mono,kiom vi volas havi=现在你想要有多少钱就会有多少钱（multe da=multa）
+
+（此外，kiom也能表程度）
+
+kial表示原因
+
+Li diris al mi,kial li tiam ne volis respondi（他告诉了我为什么他那时不想回答）
+
+通常情况下，ki首关系词和相对应的ti首词必须具有相同的形式：它们应该是来自相同的表解词群（tiu—kiu,tio—kio,tiel—kiel等），具有相同的作用标志，或者都没有作用标志。
+
+SE从句和ĈU从句
+
+下例：
+
+Mi ne dormus se ŝi ne venus（如果她不来，我就不睡）
+
+Mi ne scias,ĉu li venos（我不知道他来不来）
+
+一些复杂句例句（来自PMEG，https://bertilow.com/pmeg/，极权威的官方语法书）：
+
+•Li diris,ke li estas malsata.→Li diris tion.他说他饿了。◇Ke从句在主句中充当宾语。
+
+•Li demandis,ĉu mi amas lin.→Li demandis tion.他问我是否爱他。
+
+•Petro demandis,kial la preparoj daŭras tiel longe.→Petro demandis tion.彼得问准备工作为什么持续这么长时间。
+
+•Mi legis libron,kiun tradukis Zamenhof.→Mi legis libron tian.我读过柴门霍夫翻译的书。◇Kiu从句是名词libron的直接修饰语。
+
+•Mi kuniros,se vi promesas helpi min.→Mi kuniros tiukondiĉe.如果你答应帮助我，我就一块儿去。◇Se从句是条件补语。
+
+•Mi manĝis la panon,kvankam ĝi estis malnova.→Mi manĝis la panon malgraŭ ĝia malnoveco.我吃了那面包，尽管它不新鲜。◇Kvankam从句是补语，表示妨碍物不足。
+
+从句也可以位于主句开头：
+
+•Ke la tero estas ronda,neniu povas plu pridubi.→Tion neniu povas plu pridubi.地球是圆的，这一点不可能再有人怀疑了。
+
+•Ĉu vi estas malsata,mi demandis al ŝi.→Tion mi demandis al ŝi.我问她是否饿了。
+
+•Kiam li venis,mi jam foriris.→Tiam mi jam foriris.他来的时候，我已经离开了。◇Kiam从句是时间补语。
+
+•Se Zamenhof skribis tiel,tio certe estas ĝusta.→Tiuokaze tio certe estas ĝusta.要是柴门霍夫是这样写的，那就肯定是正确的。
+
+在很多情况下，从句位于主句内部。主句在从句结束之后继续下去：
+
+•La fakto,ke la tero estas ronda,ankoraŭ ne estas akceptita de ĉiuj.地球是圆的这一事实尚未被所有人接受。◇Ke从句是名词fakto的识辨修饰语。
+
+•Via argumento,kiun mi ne akceptas,estas tamen lerte elpensita.你的论点，虽然我不接受，却是深思熟虑的。
+
+•Mi konsentas,se vi tenos viajn promesojn,kuniri al la festo.如果你遵守你的诺言，我就同意一起去参加聚会。
+
+•La demando,kiel la universo estiĝis,ne estas ankoraŭ kontentige respondita.宇宙是如何产生的，这个问题还没有令人满意地得到回答。
+
+从句甚至常常被分割开来：
+
+•Kion vi aŭdis,ke oni diras?你听到别人说什么了？◇疑问词kion属于从句。它是diras的宾语（请比较：vi aŭdis,ke oni diras tion）。
+
+从句常常含有另一个从句，后者在第一个从句中充当句成分：
+
+•Mi sciis,ke li ne faros,kion li promesis.我知道，他是不会履行诺言的。◇句子kion li promesis是ke从句的从句。
+
+常常有人造出带有多级从句的句子。句结构可以是惊人地复杂，在惯用句子中也是如此。
+
+•Li diris,ke li jam faris tion,kion mi petis,ke li faru,kiam li revenos.他说，他已经做了我请他在回来时要做的事情。
+
+我们再学最后两个人称代词：oni和ci
+
+oni表示泛指，可以翻译成人们，也可以不翻译，用于人称代词不明确时，如：
+
+据说她病了=Oni diras,ke ŝi malsaniĝis（malsaniĝi，根词为sana“健康的”）
+
+吃完前洗手=Oni lavas manojn antaŭ ol manĝi（别忘了如果antaŭ要表示某一动作的
+
+时间更前，要加ol；lavi=洗，mano=手）
+
+人称代词ci
+
+ci的意思是“你；您”，只能用于单数，而vi是“你；你们”，能表示复数，这是ci和vi的不同，除此之外全部相同
+
+通常，人们用vi，而不是ci
+
+此外，oni和ci跟其他人称代词一样，都可以加a、n
+
+下面学习几个固定词组：
+
+ju pli...des pli...=越……越……
+
+trovi xxxn xxxa=觉得……是……的
+
+...tiel...,ke...=……如此……，以至于……
+
+por ke+动词祈使时=以便……
+
+kiel也有“作为……”的意思
+
+Mi elektis lin kiel prezidanton（我选他为总统）
+
+Mi elektis lin kiel prezidanto（作为总统，我选了他）
+
+注意以上两句因为宾格而产生的意思的变化
+
+kaj tiel plu=等等（一般放在最后面）
+
+dank'al……=感谢；多亏……（“‘”为省音符，正文末尾补充处有说明）
+
+kiel eble plej（=单词laŭeble，由laŭ和eble组合而成）=尽可能地（一般放在最后面）
+
+sama/same kiel=和……相同（sama=相同的）
+
+关于形容词和动词的转化：
+
+在世界语中，有不少形容词（但不是全部）能够转化为动词，并且经常在对话和书写中出现。下面是一些频繁以动词形式出现的形容词：
+
+Mi estas preta=Mi pretas（我准备好了。preta=准备就绪的）
+
+Li estas malsana=Li malsanas（他病了）
+
+Ŝi estas feliĉa=Ŝi feliĉas（她很高兴）
+
+Ni estas fieraj=Ni fieras（我们很骄傲。fiera=骄傲的）
+
+Ili estas lacaj=Ili lacas.（他们累了。laca=累的）
+
+Mi estas certa=Mi certas（我确定。certa=确定的）Tio estas bona=Tio bonas（那是好的）
+
+下面学习分词
+
+分词是将动作或状态表现为其主语或宾语的性质的词。分词通过特殊的分词后缀构成。分词后缀有六个:三个主动的和三个被动的
+
+我们先讲主动分词
+
+三个主动分词后缀分别是：int、ant、ont
+
+int表示已经完成，ant表示正在进行，ont表示将要进行
+
+如：
+
+legi=读
+
+去掉i加上ant再加上a=leganta（正在读的）
+
+leganta homo=正在读（书）的人
+
+Mi estas leganta=我是正在读的=我正在读
+
+如果你要表示“我正在读书”，我们需要这样做：
+
+“书”是动作直接接受者，我们将它放在这个句子的后面，然后加上宾格词尾n
+
+本来，Mi estas leganta作为一个独立的句子是不缺少成分的，但是如果你加了某个词的宾格形式，那estas leganta就会与之发生关系
+
+Mi estas leganta libron（libro=书）=我正在读书（现在进行）
+
+Ni estas legantaj libron（我们在读一本书）（因为ni是复数，所以leganta要加j）
+
+Mi estas vidanta homon=我在看一个人
+
+Mi estas vidanta homo=我是一个在看的人（不加n就会这样）
+
+int、ont后缀同理
+
+leginta homo=读完的人
+
+legonta homo=要读的人
+
+Mi estas leginta我读完了
+
+Mi estis leganta=我曾是正在读的（过去进行）
+
+这样地，通过esti时态的变化和分词词尾，你至少可以得到15个复杂时态，它们是：
+
+（这里以动词fari为例）
+
+过去完成：estis farinta
+
+过去进行：estis faranta
+
+过去将来：estis faronta
+
+现在完成：estas farinta
+
+现在进行：estas faranta
+
+现在将来：estas faronta
+
+将来完成：estos farinta
+
+将来进行：estos faranta
+
+将来将来：estos faronta
+
+祈使过去：estu farinta
+
+祈使现在：estu faranta
+
+祈使将来：estu faronta
+
+假定过去：estus farinta
+
+假定现在：estus faranta
+
+假定将来：estus faronta
+
+例句：
+
+Hieraŭ nokte,mi estis trinkanta lakton=昨晚，我正在喝牛奶
+
+（hieraŭ=昨天。别忘了nokte中e词尾可以表示时间）
+
+如果你把分词的a词尾改成o词尾，那可以表示人，如：
+
+viziti=拜访
+
+vizitanta=正在拜访的
+
+vizitanto=拜访者
+
+vivi=活；生活
+
+vivanta=正在活着的
+
+vivanto=生者
+
+可以看到，分词后的词同样可以加n，且分词词尾为e、其后有宾语时，通常位于句子开头
+
+如果你把分词词尾改成e，则可以表示与句子主语有关的附加动作
+
+如
+
+Manĝante pomon,li legas libron=吃着苹果，他看着书
+
+可以看到，分词后的词同样可以加n，且分词词尾为e、其后有宾语时，通常位于句子开
+
+头Legonte libron,ŝi trinkis tason da teo（读书之前，她喝了杯茶。teo=茶）
+
+Dormonte,mi legis libron=要睡觉时，我看了本书
+
+主动分词还有以下用法（修饰补充）：
+
+homo leganta libron=正在读书的人=homo,kiu estas leganta libron
+
+homo leginta libron=读完书的人=homo,kiu estas leginta libron
+
+homo legonta libron=要读书的人=homo,kiu estas legonta libron
+
+homo、leganta/leginta/legonta和libron三个词的顺序亦可随意变换
+
+下面是被动分词
+
+被动分词的基本原理同主动分词
+
+以下是被动分词后缀：it、at、ot
+
+it=已经被
+
+at=正被
+
+ot=将被
+
+legita=已经被读完的
+
+legata=正在被读的
+
+legota=将要被读的
+
+但是被动分词可以组成被动句，格式如下：
+
+A esti xxx[被动分词后缀]a(j)（de B）=A被（B）xxx
+
+如
+
+Tio estas sciita=那被知道了
+
+Tio estas sciita de mi=那被我知道了
+
+这里就是de的一个新用法：de可以引导被动句中的施动者
+
+Tiuj pomoj estas manĝotaj de ŝi=那些苹果要被她吃了
+
+同样地，被动分词的a后缀也可以改成e或o，如：
+
+Kaptote,li kuris（kapti=抓）=要被抓到的时候，他跑了
+
+morti=死
+
+mortigi=杀
+
+Mortigote,ŝi estis savita（快要被杀时，她被救了）
+
+mortigita=被杀死的
+
+mortigito=被杀死的人
+
+此外，de还有以下用法：
+
+表示动作的名词+de+xxx=表示该动作的动词+xxxn
+
+如：
+
+mortigi homon=杀人
+
+mortigo de homo=杀人
+
+manĝi pomojn=吃苹果
+
+manĝ(ad)o de pomoj=吃苹果
+
+表示时空上的起点：
+
+de 18:00=从18:00开始
+
+de hieraŭ ĝis hodiaŭ=从昨天到今天
+
+Kuru de tiu arboĝis mi=从那棵树那儿跑到我这儿
+
+分词就讲这些。世界语的其他部分就可在实践中学习了
+
+至此，世界语学习完成，你已经可以用世界语跟别人交流了
+
+此外，世界语还有些细节，需要你慢慢去探究
+
+附加：
+
+Glosbe的中世词典（非官方，强烈建议配合跋中的PIV词典共用）：
+
+https://glosbe.com/zh/eo/
+
+在教程的跋中，亦有世界语创始人L.L.柴门霍夫所写的La Feino，它作为标准世界语而出现在本教程中（你可以以之查看世界语的运用）——本教程中的全部世界语以La Feino中的世界语为准（La Feino的世界语完全正确，没有任何错误），也就是说：你完全可以、并且最好模仿La Feino中的世界语使用世界语。
+
+世界语词缀
+
+前缀：
+
+bo：表示姻亲
+
+patro=父亲，bopatro=岳父/公公
+
+（注：后缀可多个使用，前缀亦可，如：bogepatroj=岳父母）
+
+ĉef：表示最重要的、最高层的
+
+urbo=城市，ĉefurbo=首都
+
+ĉefo=最重要或最高阶的人；ĉefa=最重要的，最高阶的，特別的（别忘了词缀亦可单独成词）
+
+dis：表示分散
+
+iri=走，disiri=走散；doni=给，disdoni=分发
+
+disa=分开的，disigi=使……分散，disiĝi=……分散
+
+ek：表示开始
+
+ami=爱，ekami=爱上
+
+pluvi=下雨，ekpluvi=下起雨来
+
+知识点：像pluvi（下雨）、neĝi（下雪）、venti（起风）这样的词可独立使用，如“要下雨了”=“Pluvos”，而不需要诸如ĝi或tio的任何其他词
+
+ge：表示两性
+
+patro=父，gepatroj=父母（因为两性一般是复数，所以加j。若执意用单数，则其表示两性中的一个）
+
+eks：表从前的、以前是的、退职的
+
+ekzo=丈夫，eksedzo=前夫
+
+(ge)edziĝi=结婚，eks(ge)edziĝi=离婚
+
+reĝo=王，eksreĝo=前国王/退位的国王
+
+用于动物词时，eks具有特别的意思“阉割过的”：bovo=牛，eksbovo=阉牛
+
+eksa=曾经的，不再的；eksiĝi=离职，退休；eksigi=开除
+
+mal：表示直接反义
+
+amiko=友，malamiko=敌
+
+ami=爱，malami=恨
+
+granda=大，malgranda=小
+
+mis：表示错误，不恰当
+
+formo=形状，misformo=畸形
+
+pensi=想，mispensi=错想
+
+skribi=写，misskribi=写错
+
+kompreni=理解，miskompreni=误解
+
+uzi=使用，misuzi=误用，滥用trakti=对待，mistrakti=虐待
+
+misa=错的，miso=错误，失误
+
+pra：表示远古
+
+homo=人，prahomo=原始人
+
+historio=历史，prahistorio=远古史，史前史
+
+用于亲属时，表示隔一代或更远的的亲属关系：
+
+avo=祖父，praavo=（外）曾祖父，prapraavo=（外）高祖父
+
+patro=父，prapatro=祖先，先人
+
+filo=儿子，prafilo=子孙，后代
+
+praa=远古的
+
+re：表示再次
+
+veni=来，reveni=回来
+
+brili=发光，闪耀；rebrili=反映，光反射
+
+trovi=找到，retrovi=找回
+
+diri=说，rediri=复述
+
+后缀：
+
+aĉ：劣
+
+domo=屋子，domaĉo=烂尾楼
+
+homo=人，homaĉo=人渣
+
+babili，聊天；babilaĉi=唠叨，喋喋不休
+
+aĉa=劣质的，无用的，无价值的
+
+ad：持续的动作
+
+kapti=抓，kaptadi=抓住
+
+uzi=使用，uzadi=连续的使用，常规的使用
+
+martelo=锤子，marteli=用锤子打，martelado=锤打的动作
+
+adi=继续；持续
+
+aĵ：表成品，具体的事务
+
+ovo=蛋，ovaĵo=蛋制品
+
+manĝi=吃，manĝaĵo=食物
+
+fumo=烟，fumaĵo=烟熏类的制品，fumaĵi=烟熏
+
+antaŭ=在……前，antaŭaĵo=阴部
+
+post=在……后，postaĵo=臀部
+
+araneo=蜘蛛，araneaĵo=蜘蛛网nova=新的，novaĵo=新闻
+
+konstrui=建筑，建造；konstruaĵo=楼，建筑物
+
+aĵo=具体事物（未定义的种类）
+
+an：表信徒，某地人
+
+monto=山，montano=山民
+
+Usono=美国，usonano=美国人
+
+respubliko=共和国，respublikano=共和国论的支持者，共和党人
+
+viliĝo=村，viliĝano=村民
+
+ŝipo=船，ŝipano=船员
+
+ano=社団、政党、家庭、教会等的成员；aniĝi=成为会员，加入团体
+
+ar：表集合
+
+vorto=词，vortaro=词典
+
+radiko=根，词根；radikaro=词根表
+
+homo=人，homaro=人类
+
+arbo=树，arbaro=森林
+
+aro=群体，群集，聚集
+
+ec：表性质、抽象的概念
+
+granda=大的，grandeco=大
+
+amika=友好的，amikeco=友情er：表分子
+
+neĝo=雪，neĝero=雪花
+
+pluvo=雨，pluvero=雨滴
+
+salo=盐，salero=盐粒
+
+ej：表场所
+
+lerni=学习，lernejo=学校
+
+kuiri=烹饪，kuirejo=厨房
+
+libera=自由的，maliberejo=监狱（mal+liber+ej+o）
+
+ejo=（某一特定的场）所
+
+estr：表首脑
+
+grupo=组，grupestro=组长
+
+lerni=学习，lernejo=学校，lernejestro=校长
+
+estro=首脑，领导者，首领，头儿
+
+id：表后代
+
+hundo=狗，hundido=狗仔
+
+kato=猫，katido=猫仔
+
+ido=后代
+
+il：表工具
+
+manĝi=吃，manĝilo=餐具ilo=工具
+
+in：表阴性
+
+knabo=男孩子，knabino=女孩子
+
+ina=雌性的
+
+ist：表经常（并且一般是专业）做某事的人
+
+arto=艺术，artisto=艺术家
+
+Esperanto=世界语，Esperantisto=世界语者
+
+ism：表主义
+
+komuna=共同的，komunismo=共产主义
+
+ismo=主义
+
+uj：表植株、容器、国家
+
+ĉino=中国人，Ĉinujo=中国
+
+pomo=苹果，pomujo=苹果树
+
+akvo=水，akvujo=水箱，水瓶
+
+（注：当uj表示国家时，可换为i，如Ĉinujo=Ĉinio）
+
+ujo=容器
+
+ul：表某一类人
+
+alta=高的，altulo=高个儿，高的人
+
+bona=好的，bonulo=好人
+
+ulo=（某一类）人
+
+ebl：表可能性，可被……的
+
+fari=做，作；farebla=可被做的
+
+vidi=看，videbla=可见的
+
+eblo=可做的事，ebleco（=ebl+ec+o）=可能性，ebla=可能的，malebla（=mal+ebl+a）=neebla（=ne+ebl+a）=不可能的
+
+em：表倾向
+
+dormi=睡觉，dormema=贪睡的，dormemulo=贪睡的人
+
+emi=倾向做……
+
+ind：表值得
+
+fari=做；作，farinda=值得做的，farindaĵo（=far+ind+aĵ+o）=值得做的事
+
+inda=值得的，indi=值得做……
+
+ing：表插具
+
+glavo=刀剑，glavingo=剑鞘
+
+ovo=蛋，卵；ovingo=（放蛋以便食用的）蛋杯
+
+ingo=将某物（如刀剑）部分置于其中的支托物
+
+eningigi（=en+ing+ig+i）=置于托器，入鞘
+
+end：表应该，必须
+
+fari=做；作，farenda=应做的enda=应该的，endi=应该做……
+
+obl：表倍数
+
+unu=一，unuobla=一倍的
+
+cent=百，centobla=一百倍的，centoble=乘以一百
+
+dek=十，dekoblo=十倍的数量
+
+on：表分数
+
+du=二，duono=二分之一
+
+tri=三，triono=三分之一
+
+du trionoj=两个三分之一=三分之二
+
+du duonoj=二分之二=一
+
+op：表数量组合
+
+unu=一，unuopo=单个的人或物；unuopa=单个的，个别的；unuope=单独地，一个接一个
+
+du=二；duopo=双人组，两个一组，一对，一双；duopa=二元的，成双的；duope=两个一组地，成对地
+
+ig：表使动
+
+ruĝa=红，ruĝigi=赤化
+
+igi=使……，igi+xxxn+动词原形+xxxn：使xxx做xxx；igi+xxxn+动词原形=动词igi+xxxn
+
+iĝ：表转化
+
+granda=大，grandiĝi=变大
+
+fari=做；作，fariĝi=成为（性质同esti，后为表语，即后面的词不加n）
+
+iĝi=变成
+
+eg：表程度上大
+
+granda=大，grandega=极大的
+
+kuri=跑，kuregi=疾驰
+
+ega=大（程度上）
+
+et：表小
+
+kuri=跑，kureti=小跑
+
+knabino（=knab+in+o）=女孩子，knabineto=小姑娘
+
+eta=小（程度上）
+
+um：不定后缀，数量少，不常用，构成的词单独记忆即可，如：
+
+akvo=水，akvumi=浇水
+
+kruco=十字架，krucumi=用十字架钉死
+
+dekstra=右，dekstruma=顺时针的
+
+maldekstra（=mal+dekstr+a）=左，maldekstruma=逆时针的
+
+ĉj：男性昵称
+
+用ĉj构成男子的昵称。在ĉj前使用名字的缩略形式。习惯上保留1至5个字母：
+
+Johano约翰→Johanĉj或Joĉjo
+
+Vilhelmo威廉→Vilhelĉjo或Vilheĉjo或Vilĉjo或Viĉjo
+
+papago→Papĉjo（雄性鹦鹉的昵称）
+
+Patro父亲→Paĉjo爸爸
+
+Onklo→Oĉjo伯伯，叔叔，舅舅，姑父，姨父
+
+Frato兄弟→Fraĉjo哥哥，弟弟
+
+nj：女性昵称
+
+用nj构成女子的昵称。在nj前使用名字的缩略形式。习惯上保留1至5个字母：
+
+Mario→Manjo或Marinjo
+
+Klaro→Klanjo
+
+Sofio→Sonjo或Sofinjo
+
+Patrino母亲→Panjo妈，娘
+
+Onklino伯母，姨妈→Onjo阿姆，阿姨
+
+Fratino姐姐，妹妹→Franjo姐，妹
+
+小词（翻译仅供参考）（世界语的构词是灵活的，因此下列部分词仍可加词缀，具体可参考PIV词典中之例子）：
+
+almenaŭ=至少，ambaŭ=两者都，ankaŭ=也，ankoraŭ=仍，anstataŭ=而不是，antaŭ=在……前，apenaŭ=几乎不，baldaŭ=一会儿，ĉirkaŭ=在……周围/环绕/大约，hieraŭ=昨天，hodiaŭ=今天，kontraŭ=对着/反对，kvazaŭ=仿佛，morgaŭ=明天，preskaŭ=差不多
+
+ajn=任何al=朝/对/向，aŭ=或，ĉar=因为，ĉe=在（某一点），ĉi=此，ĉu=吗（用于一般疑问句），da=的（用于数量），de=的（直译），do=所以，dum=在……期间，eĉ=甚至，el=在……出来/由……制成，en=在……中，for=远离，ĝis=直到，ha=哈，ho=哦，ja=没错（用于动词前表强调），jam=已经，je=不定的介词，jen=这儿，jes=是，ĵus=刚刚，kaj=和，ke=用于KE式从句开头，krom=除了，kun=和/同，la=冠词，laŭ=根据/沿着，mem=强调只有一个，ne=不，nek=亦不，nu=呐，nun=现在，nur=仅，ol=于（用于比较级），per=以，plej=最，pli=更，plu=再/更，por=为了，post在……后，pri=关于，pro=因为，se=如果，sed=但是，sen=无，sub=在……下，sur=在……上，tra=贯穿，trans=在……另一边，tre=很，tro=太，tuj=立刻，apud=在……旁，ekster=在……外，inter=在……之间，kvankam=虽然，preter=经过，super=在……上方，tamen=然而
+
+省音符：
+
+省音符主要用于诗歌中以避免过多的元音。
+
+名词词尾o可以省略，这时人们用省音符代替o。然而，只有在o的后面不跟词尾j或n时，这种省略才有可能。在口语中，重音落在相同的元音上，就像o依然存在一样。
+
+不可以用省音符来代替a词尾、e词尾或动词词尾。同时要注意，不可能用省音符来代替词尾on、oj、和ojn。
+
+以o结尾的表解词，其末尾的o元音不是真正的o词尾。因此，不能用省音符来代替它。
+
+定冠词la中的元音a可以省略，并且用省音符代替→l'。这一缩略形式最好只用在以元音结尾的介词之后。
+
+省音符传统上也用于短语dank' al（幸亏；多亏；由于，=danke al）。
+
+当人们在计算节拍、律动等时，可以使用数词unu的省音符缩略形式un'。
+
+以上也
+
+终
+
+跋
+
+【!!极端重要!!】世界语学院成员编写的《高级世界语语法手册》（汉译版）（PDF文件）：
+下载链接:https://pan.baidu.com/s/1A1KX63w4_Lrcps0ICqkpjw
+提取码:1887 
+
+Akademio de Esperanto（世界语学院）
+世界语学院（Akademio de Esperanto）是独立的语言机构。它的任务是保护世界语的基本原则和督察其发展，像其它民族语言的学院一样。世界语学院是最高的、唯一的、绝对权威的世界语支配机构。
+网址：https://www.akademio-de-esperanto.org/
+
+【!重要!】极权威的PIV词典（de Akademio de Esperanto）：
+https://vortaro.net
+在PIV中，正体字为释义，斜体字为例子。
+直接模仿此词典所给例句而使用世界语亦可！
+本教程所给出的世界语有限，故PIV词典（中的例子）对进一步的学习显得异常重要，故一定要多看、然后再多模仿PIV中的例子例句！！打开PIV词典查找单词后，若尚不能理解其中正体字的释义，则直接参看其中的斜体字（即极权威的例子）即可！！
+
+Fundamento de Esperanto（《世界语基础》）
+世界语基础（世界语：Fundamento de Esperanto）由柴门霍夫于1905年所著。本书解释世界语的基本语法规则及词汇。1905年8月9日，第一次国际世界语大会上通过的布伦宣言规定，该书为世界语的唯一权威。本书多数内容来自于柴门霍夫的前期作品，尤其是第一本书。
+《世界语基础》包含四部分：序言、语法、练习及词典。
+所有世界语者唯一必须遵守的只有《世界语基础》，任何人皆无权对本书进行任何修改。即使某人宣称“本人以我愿意的方式使用世界语”，亦不能构成违反本书所订立的规则的理由。若本书没有提及，则每位世界语主义者皆有权以其认为便利，或在其他语言已有先例的方式（以世界语）表达自己的思想。但是，为了促进世界语的统一性，建议所有世界语主义者尽力模仿柴门霍夫的作品。柴门霍夫被认为对世界语作出了最多的努力，同时亦最理解世界语的灵魂。
+由今开始，当世界语新词已经稳定后，某权威机构（世界语学院）应将其列入官方词典，作为对《基础》的补充。
+网址：https://www.akademio-de-esperanto.org/fundamento/index.html
+日后的世界语学习，以世界语学院的指示为标准即可。（多查PIV词典，多看、模仿里面的例句）
+
+终
